@@ -14,6 +14,7 @@ if(resp<18):
 if(resp>=18 and resp<=24.9):
 	print ("SU PESO ES NORMAL")
 if(resp>=25 and resp<=26.9):
-	print ("UD TIENE SOBREPESO")
+	print ("UD TIENE SOBREPESO \n")
+	print ("PARECES CHANCHITO")
 if(resp>=27):
 	print ("UD TIENE OBESIDAD")
