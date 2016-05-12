@@ -1,3 +1,4 @@
+print ("HOLA SOY JAZMIN")
 a=float(input("INGRESE SU ESTATURA(en m): "))
 b=float(input("INGRESE SU PESO(en kg): "))
 
