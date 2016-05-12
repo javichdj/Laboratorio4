@@ -1,4 +1,2 @@
 frase=input("INGRESE UNA FRASE POR FAVOR: ")
-def contador():
-	return frase
-	print ("Su frase es: "+str(frase))
+print("Numero de palabras: " + str(len(frase.split(" "))))
